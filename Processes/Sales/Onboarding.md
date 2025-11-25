@@ -87,7 +87,7 @@ You can group headings by department within the dashboard
 
 Write a questionaire for brands when onboarding
 
-That I can validate, then put into o1
+That I can validate, then put into AI
 
 Demographic - region, people
 
