@@ -1,9 +1,15 @@
 # NAHB
-[Things To join](NAHB/Things%20To%20join%202a4a968141c880f49fb7e4ac6b45c66f.md)
 
 [Spring Leadership Meeting Notes](NAHB/Spring%20Leadership%20Meeting%20Notes%20201a968141c88070aa64f7436044a5a3.md)
 
-[Fall Leadership Meeting 2025](NAHB/Fall%20Leadership%20Meeting%202025%202aba968141c8802a8958fd5df32ec389.md)
+**Fall Leadership Meeting 2025** - Completed November 2025
+- Attended Public Affairs committee (Nov 17, 2:30-4:30 PM)
+- Custom Home Builders & NSMC Board of Trustees (Nov 18, 1:30-3:30 PM)
+- Young Professionals meeting (Nov 18, 4:00-6:00 PM)
+- Area Caucus 4 (Nov 19, 8-10 AM)
+- Key contacts: Robert, David Belman, David Price (NC), Edwin (tech, Johnson City), Chuck Miller, Meredith Oliver & Allen (Raleigh), Tammie Smoot, Anne Baker, Laura Hanson, Sarah Haynes
+- Public Affairs notes: Supplier Connect & AI Subcommittee follow-up, certification processes, trust signals, Sitecore AI CMS
+- Personal reflections and networking notes archived
 
 - NAHB
     - PIN: 2182931

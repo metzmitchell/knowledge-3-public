@@ -24,10 +24,10 @@ last_updated: 2025-11-10T11:18:00
     
     ## Email Labels
     
-    - **0.1 Mitch**: Emails requiring Mitchell’s direct attention quickly
+    - **0.1 Mitch**: Emails requiring Mitch's direct attention quickly
     - **0.2 To Respond:** Emails you will manage but haven’t yet responded to.
-    - **0.3 Review**: Not urgent emails requiring Mitchell’s input or approval before proceeding.
-    - **0.4 Responded**: Emails you’ve responded to but want Mitchell to review.
+    - **0.3 Review**: Not urgent emails requiring Mitch's input or approval before proceeding.
+    - **0.4 Responded**: Emails you've responded to but want Mitch to review.
     - **0.5 Waiting On**: Emails waiting for input or action from others before they can move forward.
     - **0.6 Receipts/Financials**: Emails related to financial matters (e.g., receipts, invoices).
         - Set up automatic forwarding of receipts where possible
@@ -44,7 +44,7 @@ last_updated: 2025-11-10T11:18:00
     - **1.3 Vendors & Advertisers**
         - Company (IE: Laurel of Cashiers)
             - Create an automatic filter for all emails from different vendors.
-    - **2.1 Newsletters**: Emails containing content Mitchell wants to read later.
+    - **2.1 Newsletters**: Emails containing content Mitch wants to read later.
     - **2.2 Cold Emails: Cold emails can be mostly deleted, blocked, or reported as spam. If you’re not sure if it’s a cold pitch, put it in here for review.**
     
     ### Workflow

@@ -15,7 +15,7 @@
     
     Living Stone
     
-    - Mitchell Metz
+    - Mitch Metz
     - Bailey Pinkerton
     - Pam
     - Megan

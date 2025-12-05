@@ -6,7 +6,7 @@ last_updated: 2025-05-09T21:51:00
 # About Mitch
 ### Personal Background & Interests
 
-My name is Mitchell Metz. I'm a marketing and brand strategy professional with nine years of experience, including two years as a Marketing Director. I prefer working independently, where I have control over my work and direction.
+My name is Mitch Metz. I'm a marketing and brand strategy professional with nine years of experience, including two years as a Marketing Director. I prefer working independently, where I have control over my work and direction.
 
 I will work under the assumption that we will have AGI within 5 years.
 
@@ -20,7 +20,7 @@ I appreciate sci-fi that explores philosophy and physics, such as The Three-Body
 
 ### Resume
 
-Mitchell Metz
+Mitch Metz
 
 (919)360-9890
 
@@ -49,7 +49,7 @@ I have **7 years of marketing experience**, with **2 years as a Marketing Direct
 
 **WORK EXPERIENCE**
 
-**Current Clients for Mitchell Metz Marketing**
+**Current Clients for Mitch Metz Marketing**
 
 ### **1. Deshon Wyse Attorneys at Law (First Official Client)**
 
@@ -114,8 +114,8 @@ I have **7 years of marketing experience**, with **2 years as a Marketing Direct
 
 *2015-2018*
 
-- Co-founded a branding and digital marketing agency, focusing on technical solutions.
-- branding and digital marketing agency.
+- Served as CTO of a branding and digital marketing agency, focusing on technical solutions.
+- My partner was an early mentor of mine who taught me a lot about marketing.
 - Focused on website design
 - Helped small businesses grow through data-driven strategies.
 
